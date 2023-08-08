@@ -1,6 +1,6 @@
 - 👋 Hi there! I’m Vignesh Ramesh.
-- 👀 I’m interested in Software Engineering, Machine Learning, and Deep Learning.
-- 🌱 I’m currently learning a bit of everything in my areas of interest. 
+- 👀 I’m interested in Software Engineering, Data Science, Machine Learning, and Deep Learning.
+- 🌱 I’m currently learning Data Science and Computer Vision. 
 - 💞️ I’m looking to collaborate on tech related stuff.
 - 📫 Reach out to me on [@linkedin](https://www.linkedin.com/in/vigneshramesh1/).
 
